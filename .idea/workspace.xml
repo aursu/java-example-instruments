@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f54156f-ab01-45e6-a8e9-abec8f8e2c9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract.iml" afterDir="false" />
+    <list default="true" id="6f54156f-ab01-45e6-a8e9-abec8f8e2c9d" name="Changes" comment="Added project settings">
       <change afterPath="$PROJECT_DIR$/src/abstractclass/instruments/Guitar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/abstractclass/instruments/Main.java" afterDir="false" />
     </list>
@@ -52,8 +45,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667840929414</updated>
-      <workItem from="1667840930920" duration="505000" />
+      <workItem from="1667840930920" duration="621000" />
     </task>
+    <task id="LOCAL-00001" summary="Added project settings">
+      <created>1667841481043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667841481043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added project settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project settings" />
   </component>
 </project>
